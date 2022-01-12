@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: Code used to solve differential equations for Physics IA 2022
+authors:
+- family-names: "ASSA"
+  given-names: "BEHRAD"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Physics-IA-Files-2022"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-01-11
+url: "https://github.com/Behrad777/Physics-IA-Files-2022"
