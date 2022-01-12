@@ -33,6 +33,7 @@ while h > -3.0:
     x.append(t)
     y.append(-v)
 
+print(t)
 plt.plot(x, y)
 
 plt.xlabel('Time (seconds)')
